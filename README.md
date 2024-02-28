@@ -9,7 +9,7 @@
  
   
 
-<a href="https://github.com/guruscode" target="_blank">
+<a href="https://github.com/nazeeeh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/engrdexterr" target="_blank">
@@ -90,16 +90,16 @@ I’m a Technologist With a Strong Record of cost-effective project completion. 
 <br><br>
 
 <p>
-  <a href="https://github.com/guruscode">
-    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=guruscode&show_icons=true&hide=stars&theme=radical">
+  <a href="https://github.com/nazeeeh">
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazeeeh&show_icons=true&hide=stars&theme=radical">
   </a> 
 
- <a href="https://github.com/guruscode">
-    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruscode&layout=compact&theme=radical&card_width=250">
+ <a href="https://github.com/nazeeeh">
+    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazeeeh&layout=compact&theme=radical&card_width=250">
   </a>
 
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guruscode&theme=radical" alt="Guruscode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazeeeh&theme=radical" alt="nazeeeh" /></p>
 <!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
 
 
@@ -132,11 +132,11 @@ src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wo
 ## 🤷 What else?
 - [Blog](https://hashnode.com/@engrdexter)
 - [Portfolio](https://richard-dexter.vercel.app/)
-- [Codepen](https://codepen.io/guruscode)
+- [Codepen](https://codepen.io/nazeeeh)
  
  
  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=guruscode&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=nazeeeh&&style=flat-square" align="center" />
 </div>  
 
 <br/>  
