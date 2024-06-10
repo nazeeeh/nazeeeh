@@ -21,9 +21,11 @@
 
   
 ### Glad to see you here!  
-I’m a Technologist With a Strong Record of cost-effective project completion. Strongly Knowledgeable in Market Trend, Productive business relationship across variety of Industries, and oversight of large budget and workforce. --- prev Software Developer @exrx. . I`m Passionate about #HumanTecnology #FinTech, #AgroTech, #ArtificialInterligence and #FilmMaking
+I am a detail-oriented frontend engineer with over 4 years of experience and an exceptional 
+interpersonal skills, team working abilities, seeking the role of Frontend developer. I have expertise in 
+coding and testing, software application development and design, i also have an extensive knowledge 
+of product-oriented designs.
   
-
 <br/>  
  
 <table><tr><td valign="top" width="40%">
